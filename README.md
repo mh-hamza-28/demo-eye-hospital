@@ -1,6 +1,6 @@
 #  Premium Eye Hospital Website
 
-A modern, fully responsive, premium-quality Eye Hospital website built using React, Tailwind CSS, Framer Motion, and Swiper.js.
+A modern, fully responsive, premium-quality deployed Eye Hospital website built using React, Tailwind CSS, Framer Motion, and Swiper.js.
 
 This project is designed to feel like a real high-end ophthalmology institute with smooth animations, elegant layouts, advanced healthcare branding, and an excellent user experience.
 
@@ -128,7 +128,7 @@ npm run build
 
 #  Deployment
 
-## Deploy on Netlify
+## Deploy on Netlify link: https://6a0cbd6b5645e5eb4805c8d2--chic-medovik-87bae2.netlify.app/
 
 ### Build Settings
 
