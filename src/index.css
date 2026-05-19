@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+@import "tailwindcss";
+
+:root {
+  font-family: "Plus Jakarta Sans", Inter, system-ui, sans-serif;
+  color: #0f172a;
+  background: #ffffff;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 7rem;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+button,
+input,
+textarea {
+  font: inherit;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+img {
+  max-width: 100%;
+}
+
+::selection {
+  background: rgba(34, 211, 238, 0.28);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+.facility-swiper .swiper-pagination-bullet,
+.story-swiper .swiper-pagination-bullet,
+.hero-swiper .swiper-pagination-bullet {
+  background: #22d3ee;
+  opacity: 0.35;
+}
+
+.facility-swiper .swiper-pagination-bullet-active,
+.story-swiper .swiper-pagination-bullet-active,
+.hero-swiper .swiper-pagination-bullet-active {
+  opacity: 1;
+  width: 1.5rem;
+  border-radius: 999px;
+}
+
+.hero-swiper .swiper-pagination {
+  bottom: 2rem !important;
+  left: auto !important;
+  right: 1.25rem;
+  width: auto !important;
+}
+
+.hero-swiper,
+.hero-swiper .swiper-wrapper,
+.hero-swiper .swiper-slide {
+  min-height: 100vh;
+  width: 100vw;
+}
+
+.hero-swiper .swiper-pagination-bullet {
+  background: #ffffff;
+}
+
+.hero-swiper .swiper-pagination-bullet-active {
+  background: #67e8f9;
+}
+
+@media (max-width: 640px) {
+  html {
+    scroll-padding-top: 5.5rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}

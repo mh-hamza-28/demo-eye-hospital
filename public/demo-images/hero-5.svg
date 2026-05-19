@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <rect width="1600" height="900" fill="#f5fcff"/>
+  <circle cx="1280" cy="220" r="240" fill="#bae6fd" opacity=".5"/>
+  <rect x="180" y="190" width="1240" height="560" rx="42" fill="#e7f9fc"/>
+  <rect x="270" y="280" width="525" height="350" rx="28" fill="#082f49"/>
+  <rect x="850" y="280" width="455" height="70" rx="18" fill="#ffffff"/>
+  <rect x="850" y="385" width="360" height="38" rx="19" fill="#bdebf3"/>
+  <rect x="850" y="455" width="420" height="38" rx="19" fill="#dff8fb"/>
+  <rect x="850" y="525" width="300" height="38" rx="19" fill="#c7eef4"/>
+  <circle cx="532" cy="455" r="115" fill="#22d3ee"/>
+  <circle cx="532" cy="455" r="52" fill="#031826"/>
+  <text x="110" y="120" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#0f172a">Specialist Consultation</text>
+</svg>

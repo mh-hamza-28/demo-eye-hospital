@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" preserveAspectRatio="xMidYMid slice">
+  <rect width="900" height="620" fill="#eefbff"/>
+  <circle cx="720" cy="120" r="150" fill="#67e8f9" opacity=".25"/>
+  <rect x="135" y="170" width="630" height="330" rx="34" fill="#ffffff"/>
+  <path d="M210 500 V250 h170 v250 M420 500 V195 h260 v305" fill="#dff8fb" stroke="#0f766e" stroke-width="8" stroke-linejoin="round"/>
+  <rect x="470" y="395" width="90" height="105" rx="14" fill="#0f172a"/>
+  <rect x="245" y="295" width="70" height="70" rx="12" fill="#0891b2" opacity=".75"/>
+  <rect x="475" y="260" width="70" height="70" rx="12" fill="#0891b2" opacity=".75"/>
+  <rect x="585" y="260" width="70" height="70" rx="12" fill="#0891b2" opacity=".75"/>
+  <text x="450" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#0f172a">Eye Hospital Demo</text>
+</svg>
