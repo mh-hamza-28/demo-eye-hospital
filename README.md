@@ -51,7 +51,7 @@ Optimized for:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ## Frontend
 
@@ -128,7 +128,7 @@ npm run build
 
 #  Deployment
 
-## Deploy on Netlify link: https://6a0cbd6b5645e5eb4805c8d2--chic-medovik-87bae2.netlify.app/
+## Deployed on Netlify link: https://6a0cbd6b5645e5eb4805c8d2--chic-medovik-87bae2.netlify.app/
 
 ### Build Settings
 
